@@ -1,0 +1,29 @@
+{
+    "publisher": "fujidana",
+    "name": "vscode-spec",
+    "displayName": "spec extension pack",
+    "description": "Extension pack for CSS spec software",
+    "version": "2.0.0",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Extension Packs",
+        "Programming Languages"
+    ],
+    "icon": "resources/icon.png",
+    "keywords": [
+        "X-ray diffraction",
+        "synchrotron",
+        "instrument control",
+        "data acquisition"
+    ],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fujidana/vscode-spec.git"
+	},
+    "extensionPack": [
+        "fujidana.spec-command",
+        "fujidana.spec-log"
+    ]
+}
