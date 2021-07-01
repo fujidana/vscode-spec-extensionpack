@@ -13,5 +13,5 @@ Its identifier was changed when the extension became v1.5.0.
   - __spec command__ ("fujidana/spec-command"): language support for __spec__ command files
   - __spec log__ ("fujidana/spec-log"): language support for __spec__ log files
 
-[Unreleased]: https://github.com/fujidana/vscode-spec/compare/v2.0.0...HEAD
-[2.0.0]: https://github.com/fujidana/vscode-spec/releases/tag/v2.0.0
+[Unreleased]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.0.0...HEAD
+[2.0.0]: https://github.com/fujidana/vscode-spec-extensionpack/releases/tag/v2.0.0

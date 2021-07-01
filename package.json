@@ -20,7 +20,7 @@
     ],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/fujidana/vscode-spec.git"
+		"url": "https://github.com/fujidana/vscode-spec-extensionpack.git"
 	},
     "extensionPack": [
         "fujidana.spec-command",
