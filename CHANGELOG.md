@@ -10,13 +10,19 @@ Because the version number smaller than the previously published one is not allo
 
 ## [Unreleased]
 
-## [2.0.1] - 2021-07-08
+## [2.0.1] -- 2021-08-15
+
+### Added
+
+- bundle __spec data__ (`fujidana/spec-data`): language support for __spec__ data files (standard data format)
+
+## [2.1.0] -- 2021-07-08
 
 ### Fixed
 
 - wrong GitHub repository links
 
-## [2.0.0] - 2021-07-01
+## [2.0.0] -- 2021-07-01
 
 ### Added
 
@@ -24,6 +30,7 @@ Because the version number smaller than the previously published one is not allo
   - __spec command__ (`fujidana/spec-command`): language support for __spec__ command files
   - __spec log__ (`fujidana/spec-log`): language support for __spec__ log files
 
-[Unreleased]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.0.1...HEAD
+[Unreleased]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.0...HEAD
+[2.0.1]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.0.1...v2.1.0
 [2.0.1]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/fujidana/vscode-spec-extensionpack/releases/tag/v2.0.0
