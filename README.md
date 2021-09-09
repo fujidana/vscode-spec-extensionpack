@@ -1,11 +1,9 @@
 # __spec__ Extension Pack for Visual Studio Code
 
-## NOTICE for previous version users
+## Notice for previous version users
 
-Previously the language identifier of this extension pack, `vscode-spec`, was used by an independent extension that supports both __spec__ command files and __spec__ log files.
-Later, for several reasons the developer decided to split this extension into two; one is for __spec__ command files (both the exention identifier and language identifier are `spec-command`) and the other is for __spec__ log files (`spec-log`).
-
-The original extension identifier, `vscode-spec`, is reused for this extension pack so that previous users continue to get the latest language support for both file types without any manual installation process.
+Previously (≤ v1.4.0) this extension, `fujidana.vscode-spec`, directly supported both __spec__ command files and __spec__ log files.
+Later in v2.0.0, it was split into two exntensions, `fujidana.spec-command` for __spec__ command files and `fujidana.spec-log` for __spec__ log files, and the original extension identifier, `fujidana.vscode-spec`, was reused for this extension pack.
 
 A user who only needs language support for either file type can uninstall this extension pack and then install the independent one.
 
