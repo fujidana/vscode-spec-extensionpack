@@ -10,6 +10,12 @@ Because the version number smaller than the previously published one is not allo
 
 ## [Unreleased]
 
+## [2.1.2] -- 2022-06-30
+
+### Changed
+
+- Raise the minimum VS Code version to 1.68.0.
+
 ## [2.1.1] -- 2021-09-09
 
 ### Fixed
@@ -36,7 +42,8 @@ Because the version number smaller than the previously published one is not allo
   - __spec command__ (`fujidana/spec-command`): language support for __spec__ command files
   - __spec log__ (`fujidana/spec-log`): language support for __spec__ log files
 
-[Unreleased]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.1...HEAD
+[Unreleased]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.2...HEAD
+[2.1.2]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.1...v2.1.2
 [2.1.1]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.0...v2.1.1
 [2.1.0]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.0.1...v2.1.0
 [2.0.1]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.0.0...v2.0.1
