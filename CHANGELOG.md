@@ -10,6 +10,12 @@ Because the version number smaller than the previously published one is not allo
 
 ## [Unreleased]
 
+## [2.1.4] -- 2023-08-20
+
+### Changed
+
+- Raise the minimum VS Code version to 1.74.0.
+
 ## [2.1.3] -- 2022-12-29
 
 ### Changed
