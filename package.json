@@ -3,9 +3,9 @@
     "name": "vscode-spec",
     "displayName": "spec extension pack",
     "description": "Extension pack for CSS spec software",
-    "version": "2.1.4",
+    "version": "2.1.5",
     "engines": {
-        "vscode": "^1.78.0"
+        "vscode": "^1.85.0"
     },
     "categories": [
         "Extension Packs",

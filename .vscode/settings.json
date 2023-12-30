@@ -1,5 +1,5 @@
 {
     "markdownlint.config": {
-        "no-duplicate-header": false
+        "no-duplicate-heading": false
     }
 }
