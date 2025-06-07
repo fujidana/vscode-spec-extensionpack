@@ -1,11 +1,6 @@
 # __spec__ Extension Pack for Visual Studio Code
 
-## Notice for previous version users
-
-Previously (≤ v1.4.0) this extension, `fujidana.vscode-spec`, directly supported both __spec__ command files and __spec__ log files.
-Later in v2.0.0, it was split into two exntensions, `fujidana.spec-command` for __spec__ command files and `fujidana.spec-log` for __spec__ log files, and the original extension identifier, `fujidana.vscode-spec`, was reused for this extension pack.
-
-A user who only needs language support for either file type can uninstall this extension pack and then install the independent one.
+This is an extension pack for the __spec__ programming language.
 
 ## What's __spec__?
 
@@ -15,3 +10,7 @@ A user who only needs language support for either file type can uninstall this e
 _cited from [CSS - Certified Scientific Software](https://www.certif.com) homepage._
 
 Note that the extension is not the official one developed by Certified Scientific Software.
+
+## Release Notes
+
+See [CHANGELOG.md](CHANGELOG.md).

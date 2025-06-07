@@ -3,9 +3,9 @@
     "name": "vscode-spec",
     "displayName": "spec extension pack",
     "description": "Extension pack for CSS spec software",
-    "version": "2.1.6",
+    "version": "2.1.7",
     "engines": {
-        "vscode": "^1.91.0"
+        "vscode": "^1.100.0"
     },
     "categories": [
         "Extension Packs",
@@ -19,10 +19,10 @@
         "data acquisition"
     ],
     "license": "SEE LICENSE IN LICENSE.txt",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/fujidana/vscode-spec-extensionpack.git"
-	},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fujidana/vscode-spec-extensionpack.git"
+    },
     "extensionPack": [
         "fujidana.spec-command",
         "fujidana.spec-data",
