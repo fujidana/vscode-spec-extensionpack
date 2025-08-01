@@ -1,9 +1,3 @@
-PLEASE NOTE: This is the license for spec extension pack.
-This extension pack automatically installs other extensions that
-have separate licenses. Read each license file in the extensions.
-
---------
-
 MIT License
 
 Copyright (c) 2022 fujidana
