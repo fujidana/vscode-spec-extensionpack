@@ -1,14 +1,20 @@
 # Change Log
 
-Previously (≤ v1.4.0) this extension, `fujidana.vscode-spec`, directly supported both __spec__ command files and __spec__ log files.
-Later in v2.0.0, it was split into two exntensions, `fujidana.spec-command` for __spec__ command files and `fujidana.spec-log` for __spec__ log files, and the original extension identifier, `fujidana.vscode-spec`, was reused for this extension pack.
+Previously (≤ v1.4.0), this extension, `fujidana.vscode-spec`, directly supported both __spec__ command files and __spec__ log files.
+Later in v2.0.0, it was split into two independent extensions, `fujidana.spec-command` for __spec__ command files and `fujidana.spec-log` for __spec__ log files, and the original extension identifier, `fujidana.vscode-spec`, was reused for this extension pack.
 
-Check [fujidana.vscode-spec-command CHANGELOG.md](https://github.com/fujidana/vscode-spec-command/blob/master/CHANGELOG.md) for the history when the `vscode-spec` was an independent extension.
+Because the version number smaller than the previously published one is not allowed in the market place, this extension pack started its version number from v2.0.0.
 
-The last version of the independent extension was v1.4.0.
-Because the version number smaller than the previously published one is not allowed in the market place, this extension pack starts its version number from v2.0.0.
+Check [this](https://github.com/fujidana/vscode-spec-command/blob/master/CHANGELOG.md) for the changelog before `fujidana.vscode-spec` was turned into an extension pack.
+
 
 ## [Unreleased]
+
+## [2.1.8] -- 2025-08-22
+
+### Changed
+
+- Raise the minimum VS Code version to 1.102.0.
 
 ## [2.1.7] -- 2025-06-07
 
@@ -72,7 +78,8 @@ Because the version number smaller than the previously published one is not allo
   - __spec command__ (`fujidana/spec-command`): language support for __spec__ command files
   - __spec log__ (`fujidana/spec-log`): language support for __spec__ log files
 
-[Unreleased]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.7...HEAD
+[Unreleased]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.8...HEAD
+[2.1.8]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.7...v2.1.8
 [2.1.7]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.6...v2.1.7
 [2.1.6]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.5...v2.1.6
 [2.1.5]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.4...v2.1.5
