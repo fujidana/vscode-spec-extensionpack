@@ -10,6 +10,12 @@ Check [this](https://github.com/fujidana/vscode-spec-command/blob/master/CHANGEL
 
 ## [Unreleased]
 
+## [2.1.9] -- 2026-05-02
+
+### Changed
+
+- Raise the minimum VS Code version to 1.110.0.
+
 ## [2.1.8] -- 2025-08-22
 
 ### Changed
