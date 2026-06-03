@@ -5,10 +5,16 @@ Later in v2.0.0, it was split into two independent extensions, `fujidana.spec-co
 
 Because the version number smaller than the previously published one is not allowed in the market place, this extension pack started its version number from v2.0.0.
 
-Check [this](https://github.com/fujidana/vscode-spec-command/blob/master/CHANGELOG.md) for the changelog before `fujidana.vscode-spec` was turned into an extension pack.
+See the [changelog of __spec command__](https://github.com/fujidana/vscode-spec-command/blob/master/CHANGELOG.md) for changes before `fujidana.vscode-spec` was turned into an extension pack.
 
 
 ## [Unreleased]
+
+## [2.1.10] -- 2026-06-03
+
+### Changed
+
+- Raise the minimum VS Code version to 1.120.0.
 
 ## [2.1.9] -- 2026-05-02
 
@@ -84,7 +90,8 @@ Check [this](https://github.com/fujidana/vscode-spec-command/blob/master/CHANGEL
   - __spec command__ (`fujidana/spec-command`): language support for __spec__ command files
   - __spec log__ (`fujidana/spec-log`): language support for __spec__ log files
 
-[Unreleased]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.9...HEAD
+[Unreleased]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.10...HEAD
+[2.1.10]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.9...v2.1.10
 [2.1.9]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.8...v2.1.9
 [2.1.8]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.7...v2.1.8
 [2.1.7]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.6...v2.1.7

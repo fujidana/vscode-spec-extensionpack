@@ -1,6 +1,10 @@
 # __spec__ Extension Pack for Visual Studio Code
 
-This is an extension pack for the __spec__ programming language.
+This is an extension pack for the __spec__ software users. This pack bundles the following extensions:
+
+- __spec command__ (`fujidana.spec-command`): language support for __spec__ command files. This supports users editing __spec__ macros.
+- __spec data__ (`fujidana.spec-data`): language support for __spec__ data and CSV files. This supports users browsing data files in __spec__ standard data format and CSV. A key feature is showing numerical data as a graph.
+- __spec log__ (`fujidana.spec-log`): language support for __spec__ log files. This supports users browsing log files __spec__ outputs.
 
 ## What's __spec__?
 
