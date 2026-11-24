@@ -1,6 +1,8 @@
-# __spec__ Extension Pack for Visual Studio Code
+# VS Code Extension Pack for __spec__ Software
 
-This is an extension pack for the __spec__ software users. This pack bundles the following extensions:
+<!-- markdownlint-disable line-length -->
+
+This is a Visual Studio Code (VS Code) extension pack for the __spec__ software users. This pack bundles the following extensions:
 
 - __spec command__ (`fujidana.spec-command`): language support for __spec__ command files. This supports users editing __spec__ macros.
 - __spec data__ (`fujidana.spec-data`): language support for __spec__ data, CSV, and other formats. This supports users browsing data files in __spec__ standard data format, CSV, and other formats. A key feature is showing numerical data as a graph.
@@ -13,7 +15,7 @@ This is an extension pack for the __spec__ software users. This pack bundles the
 
 _cited from [CSS - Certified Scientific Software](https://www.certif.com) homepage._
 
-Note that the extension is not the official one developed by Certified Scientific Software.
+The extension author is not affiliated with, endorsed by, or sponsored by Certified Scientific Software, the developer of __spec__ software.
 
 ## Release Notes
 

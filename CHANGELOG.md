@@ -1,5 +1,7 @@
 # Change Log
 
+<!-- markdownlint-disable line-length no-duplicate-heading -->
+
 Previously (≤ v1.4.0), this extension, `fujidana.vscode-spec`, directly supported both __spec__ command files and __spec__ log files.
 Later in v2.0.0, it was split into two independent extensions, `fujidana.spec-command` for __spec__ command files and `fujidana.spec-log` for __spec__ log files, and the original extension identifier, `fujidana.vscode-spec`, was reused for this extension pack.
 
@@ -8,6 +10,12 @@ Because the version number smaller than the previously published one is not allo
 See the [changelog of __spec command__](https://github.com/fujidana/vscode-spec-command/blob/master/CHANGELOG.md) for changes before `fujidana.vscode-spec` was turned into an extension pack.
 
 ## [Unreleased]
+
+## [2.1.12] -- 2026-11-24
+
+### Changed
+
+- Raise the minimum VS Code version to 1.140.0.
 
 ## [2.1.11] -- 2026-08-02
 
@@ -95,7 +103,8 @@ See the [changelog of __spec command__](https://github.com/fujidana/vscode-spec-
   - __spec command__ (`fujidana/spec-command`): language support for __spec__ command files
   - __spec log__ (`fujidana/spec-log`): language support for __spec__ log files
 
-[Unreleased]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.11...HEAD
+[Unreleased]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.12...HEAD
+[2.1.12]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.11...v2.1.12
 [2.1.11]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.10...v2.1.11
 [2.1.10]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.9...v2.1.10
 [2.1.9]: https://github.com/fujidana/vscode-spec-extensionpack/compare/v2.1.8...v2.1.9
